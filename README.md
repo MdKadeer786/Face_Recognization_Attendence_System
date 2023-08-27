@@ -1,1 +1,1 @@
-# Face_Recognization_Attendence_System
+# Face_Detection_Attendence_System
